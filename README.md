@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Niclas-123
+- 👀 I’m interested in application development
+- 🌱 I’m currently learning ruby on rails
