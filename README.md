@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Niclas-123
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning ruby on rails
+- 👋 Hi, I’m @InkAndSteel
+- 👀 I’m interested in almost everything, but especially startups
+- 🌱 I’m currently learning to build one
